@@ -11,5 +11,5 @@ management:
 
    
 greeting-service:
-  greeting: "Hello"
-  default-value: "World"  
+  greeting: "Ola"
+  default-value: "Ambiente DEV"  
